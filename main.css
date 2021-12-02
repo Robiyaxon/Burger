@@ -1,0 +1,2070 @@
+* {
+  box-sizing: border-box !important;
+}
+
+.button {
+  display: none;
+}
+
+.imeges2 {
+  display        : flex;
+  justify-content: space-around;
+  margin-top     : 2rem;
+  margin-bottom  : 3rem;
+}
+
+.internet {
+  display        : flex;
+  width          : 20%;
+  justify-content: space-around;
+}
+
+.dad {
+  width          : 100%;
+  display        : flex;
+  justify-content: center;
+}
+
+.chiz {
+  width     : 75%;
+  height    : 1px;
+  margin-top: 5rem;
+  opacity   : 0.3;
+  border    : 1px solid #979797;
+}
+
+.kerak {
+  position   : absolute;
+  width      : 140px;
+  height     : 18px;
+  margin-left: 8rem;
+  top        : 5.7rem;
+  font-weight: 600;
+  font-size  : 20px;
+  line-height: 18px;
+  color      : #222124;
+}
+
+.TelBG {
+  width     : 100%;
+  height    : 100%;
+  object-fit: contain;
+}
+
+.nome {
+  position   : absolute;
+  width      : 254px;
+  height     : 33px;
+  margin-left: 8rem;
+  margin-top : 9rem;
+  font-size  : 16px;
+  line-height: 33px;
+  color      : #222124;
+}
+
+.manzil {
+  position   : absolute;
+  width      : 286px;
+  height     : 48px;
+  margin-left: 8rem;
+  margin-top : 12rem;
+  font-size  : 14px;
+  line-height: 24px;
+  color      : #222124;
+  opacity    : 0.7;
+}
+
+.korish1 {
+  display: none;
+}
+
+.button2 {
+  display: none;
+}
+
+.korish2 {
+  display: none;
+}
+
+.klent1 {
+  width      : 144px;
+  height     : 102px;
+  font-size  : 14px;
+  line-height: 34px;
+  color      : #222124;
+  margin-top : -2rem;
+}
+
+.klent2 {
+  font-size  : 20px;
+  line-height: 18px;
+  color      : #003846;
+}
+
+.klent {
+  font-size  : 14px;
+  line-height: 34px;
+  color      : #222124;
+}
+
+.img {
+  margin-left: 128px;
+  margin-top : 125px;
+}
+
+.panel2 {
+  display: none;
+}
+
+.panel5 {
+  display: none;
+}
+
+.panel6 {
+  display: none;
+}
+
+.accardinone {
+  width          : 400px;
+  display        : flex;
+  align-items    : center;
+  justify-content: space-between;
+  margin         : 125px 0px 0px 200px;
+}
+
+.foo {
+  display: flex;
+}
+
+
+
+a {
+  text-decoration: none !important;
+  height         : 70%;
+}
+
+a:hover {
+  color: #f1b301;
+}
+
+.a {
+  margin-left: 2.5rem;
+}
+
+.panel {
+  color: #222124;
+}
+
+.accardion {
+  width      : 144px;
+  height     : 102px;
+  font-size  : 14px;
+  line-height: 34px;
+  color      : #222124;
+  margin-top : -2.5rem;
+}
+
+.fulli {
+  display   : flex;
+  height    : 501px;
+  background: #800A7A;
+  margin    : 0;
+  margin-top: 6rem;
+  padding   : 0;
+
+}
+
+.ilova2 {
+  width      : 50%;
+  height     : 189px;
+  font-weight: bold;
+  font-size  : 52px;
+  line-height: 63px;
+  color      : #FFFFFF;
+}
+
+.apple {
+  width     : 50%;
+  text-align: end;
+  overflow  : hidden;
+}
+
+.ilova {
+  width      : 581px;
+  margin-left: 128px;
+  height     : 189px;
+  margin-top : 6rem;
+}
+
+.smartfon {
+  margin-top : -25rem;
+  position   : absolute;
+  width      : 803px;
+  height     : 540px;
+  margin-left: -14.5rem;
+}
+
+.apple2 {
+  display: flex;
+}
+
+.apple3 {
+  border         : 2px solid rgba(255, 255, 255, 0.292941);
+  box-sizing     : border-box;
+  backdrop-filter: blur(27.1828px);
+  border-radius  : 46px;
+  display        : flex;
+  align-items    : center;
+  justify-content: center;
+  margin-left    : 1.5rem;
+  width          : 236px;
+  height         : 60px !important;
+}
+
+.apple3:hover {
+  background-color: rgba(255, 255, 255, 0.322);
+}
+
+.apple3 a img {
+  height    : 100% !important;
+  width     : 90%;
+  object-fit: scale-down !important;
+}
+
+.ilova3 {
+  width      : 100%;
+  position   : absolute;
+  height     : 85%;
+  align-items: flex-end;
+  display    : flex;
+}
+
+.apple2 {
+  margin-left: 5.5rem;
+}
+
+.thank {
+  font-size  : 20px;
+  line-height: 18px;
+  color      : #222124;
+  margin-left: 995px;
+  text-align : center;
+  margin-top : -6rem;
+}
+
+.milod {
+  text-align : center;
+  margin-left: 995px;
+  font-size  : 25px;
+  line-height: 33px;
+  color      : #222124;
+}
+
+.kini {
+  width      : 316px;
+  height     : 48px;
+  margin-left: 995px;
+  font-size  : 14px;
+  border     : 1px solid red;
+  color      : #222124;
+  opacity    : 0.7;
+  text-align : center;
+}
+
+.massa {
+  margin-left: -2rem;
+}
+
+
+.bolim1 {
+  border       : 1px solid rgba(151, 151, 151, 0.181927);
+  border-radius: 12px;
+  margin-left  : 0;
+  box-sizing   : border-box;
+  margin-top   : 2rem;
+  display      : flex;
+  width        : 100%;
+  height       : 230px;
+  align-items  : center;
+}
+
+.bolim1 img {
+  width      : 180px;
+  height     : 180px;
+  margin-left: 1rem;
+}
+
+.bolim3 {
+  border       : 1px solid rgba(151, 151, 151, 0.181927);
+  border-radius: 12px;
+  width        : 100%;
+  height       : 230px;
+  margin-top   : 2rem;
+  display      : flex;
+  align-items  : center;
+  margin-left  : 0;
+  box-sizing   : border-box;
+}
+
+.matn {
+  width      : 212px;
+  height     : 68px;
+  font-size  : 14px;
+  line-height: 17px;
+  color      : #222124;
+  opacity    : 0.4;
+  margin-top : 0.5rem;
+}
+
+.bolim3 img {
+  width      : 180px;
+  height     : 180px;
+  margin-left: 1rem;
+}
+
+.bolim2 {
+  margin-left: 2rem;
+}
+
+.summa {
+  display    : flex;
+  align-items: center;
+}
+
+.summa1 {
+  width       : 142px;
+  height      : 29px;
+  font-weight : bold;
+  font-size   : 24px;
+  line-height : 29px;
+  color       : #222124;
+  margin-right: 4rem;
+}
+
+.taom1 {
+  padding-left: 9%;
+  margin-top  : 1rem;
+  font-weight : bold;
+  font-size   : 52px;
+  color       : #222124;
+}
+
+.summa2 {
+  width          : 40px;
+  height         : 40px;
+  background     : #F1B301;
+  display        : flex;
+  align-items    : center;
+  justify-content: center;
+  border-radius  : 50%;
+  margin-top     : -5px;
+  color          : #FFFFFF;
+}
+
+.gavaya1 img {
+  width      : 24px;
+  height     : 24px;
+  margin-left: 1rem;
+}
+
+.gavaya {
+  width      : auto;
+  height     : 29px;
+  font-size  : 24px;
+  line-height: 29px;
+  font-weight: 500;
+  color      : #222124;
+}
+
+.gavaya1 {
+  display   : flex;
+  margin-top: 1rem;
+}
+
+.h1 {
+  position   : absolute;
+  width      : 128px;
+  height     : 63px;
+  margin-left: 10%;
+  margin-top : 1079px;
+  font-weight: bold;
+  font-size  : 52px;
+  line-height: 63px;
+  color      : #222124;
+}
+
+.barcha:focus {
+  color           : #FFFFFF;
+  background-color: #F1B301;
+  height          : 45px;
+  display         : flex !important;
+  align-items     : center !important;
+  justify-content : center !important;
+}
+
+.barcha {
+  width           : 124px;
+  height          : 100%;
+  background-color: transparent;
+  border          : none;
+  outline         : none !important;
+  border-radius   : 27px;
+  margin-right    : 1rem;
+  height          : 100%;
+}
+
+.kop {
+  height       : 54px;
+  display      : flex;
+  width        : 83%;
+  margin-top   : 1rem;
+  margin-bottom: 3rem;
+}
+
+.block5 {
+  width          : 100%;
+  display        : flex;
+  justify-content: center;
+  margin-top     : 4rem;
+}
+
+.chiziq {
+  position        : absolute;
+  width           : 70%;
+  background-color: #979797;
+  opacity         : 0.2;
+  border          : 1px solid #979797;
+}
+
+.box1 {
+  width        : 119px;
+  height       : 40px;
+  margin-left  : 1rem;
+  margin-top   : -11rem !important;
+  top          : 620px;
+  display      : flex;
+  align-items  : center;
+  background   : rgba(255, 255, 255, 0.203344);
+  border-radius: 19px
+}
+
+.pitsa2 {
+  margin-left: 1rem;
+}
+
+.work {
+  color : #FFFFFF;
+  margin: 0;
+}
+
+.box1 img {
+  width       : 15%;
+  height      : 85%;
+  margin-left : 1rem;
+  margin-right: 1rem;
+  object-fit  : none;
+}
+
+.pitsa2 {
+  margin-left: 1rem;
+}
+
+.box {
+  display        : flex !important;
+  align-items    : flex-end !important;
+  justify-content: flex-end !important;
+  width          : auto;
+  height         : 100%;
+  background     : none;
+}
+
+.bgyellowBox,
+.kombo {
+  width     : 255px;
+  height    : 100%;
+  object-fit: contain;
+}
+
+.ota {
+  display    : flex;
+  margin-left: -120%;
+  margin-top : -5.5rem;
+}
+
+.bola4 {
+  width        : 255px;
+  height       : 200px;
+  background   : #800A7A;
+  border-radius: 12px;
+}
+
+.bola3 {
+  width        : 255px;
+  border-radius: 12px;
+
+  margin-right: 30px;
+}
+
+.width {
+  position   : absolute;
+  margin-left: -120%;
+  margin-top : 410px;
+  width      : 397px;
+  height     : 64px;
+  font-size  : 18px;
+  color      : #222124;
+}
+
+.rasm2 {
+  width      : 655px;
+  height     : 524px;
+  margin-left: -33%;
+  margin-top : 80px;
+}
+
+.text {
+  position   : absolute;
+  width      : 434px;
+  height     : 255px;
+  margin-left: -120%;
+  margin-top : 100px;
+  font-weight: 900;
+  font-size  : 80px;
+  line-height: 85px;
+  color      : #222124
+}
+
+.rang {
+  height    : 800px;
+  background: #800A7A;
+}
+
+.rasm1 {
+  margin-left: 128px;
+  margin-top : 33px;
+  width      : 51.49px;
+  height     : 54.95px;
+}
+
+.menu {
+  margin-left: -23rem;
+  margin-top : 42px;
+  color      : #222124;
+  line-height: 17px;
+  font-size  : 14px;
+}
+
+.col-xl-3 {
+  margin-top: -9rem;
+}
+
+.bolalar {
+  margin-top : 42px;
+  font-size  : 14px;
+  line-height: 17px;
+  color      : #222124;
+  margin-left: -16rem;
+}
+
+.flial {
+  width      : 46px;
+  height     : 17px;
+  margin-left: -7rem;
+  margin-top : 42px;
+  font-size  : 14px;
+  line-height: 17px;
+  color      : #222124;
+}
+
+.tel {
+  width      : 18px;
+  height     : 18px;
+  margin-top : 35px;
+  margin-left: 1rem;
+}
+
+.rang {
+  margin-right: 0 !important;
+  margin-left : 0 !important;
+  padding     : 0 !important;
+}
+
+.col-xl-7 {
+  padding: 0px !important;
+}
+
+.tel2 {
+  width          : auto;
+  height         : 100%;
+  margin-left    : 2rem;
+  font-size      : 11px;
+  color          : #FFFFFF;
+  vertical-align : middle;
+  text-align     : center;
+  padding        : 0 !important;
+  display        : flex;
+  align-items    : center;
+  justify-content: center;
+  margin         : 1rem 0 0 0;
+}
+
+.tel3 {
+  font-size: 24px;
+
+  line-height: 25px;
+}
+
+.tel4 {
+  margin-left: 15px;
+  width      : 100%;
+}
+
+.stik {
+  width       : 1px;
+  height      : 43px;
+  margin-left : 3rem;
+  margin-right: 2rem;
+  margin-top  : 28px;
+  opacity     : 0.4;
+  border      : 1px solid #FFFFFF;
+}
+
+.block2 {
+  display: flex;
+}
+
+.qulf {
+  width      : 18px;
+  height     : 21px;
+  margin-left: 2rem;
+  margin-top : 39px;
+}
+
+.karzina {
+  width          : auto;
+  height         : 100%;
+  margin-left    : 1rem;
+  font-weight    : bold;
+  font-size      : 14px;
+  line-height    : 25px;
+  color          : #FFFFFF;
+  display        : flex;
+  align-items    : center;
+  justify-content: center;
+  margin-top     : 1rem;
+}
+
+.uzs {
+  font-size: 12px;
+}
+
+.navbar-toggler {
+  outline: none !important;
+}
+
+.olov {
+  position     : absolute;
+  width        : 119px;
+  height       : 40px;
+  background   : rgba(255, 255, 255, 0.203344);
+  border-radius: 19px;
+  color        : #FFFFFF;
+}
+
+.salat img {
+  border-radius: 50%;
+  object-fit   : cover;
+}
+
+.yangi {
+  margin-top: 15px;
+}
+
+.pit-sa {
+  display        : flex;
+  align-items    : flex-end;
+  justify-content: space-between;
+  width          : 100%;
+  height         : 100%;
+}
+
+.pitsa {
+  margin-left: 1rem;
+}
+
+.ota-div {
+  width          : 638px;
+  height         : 200px;
+  margin-top     : -5.7rem;
+  margin-left    : -120%;
+  display        : flex;
+  justify-content: space-between;
+}
+
+.bola-div1 {
+  border: 1px solid yellow;
+  width : 46%;
+  height: 100%;
+}
+
+.bola-div2 {
+  border: 1px solid yellow;
+  width : 46%;
+  height: 100%;
+}
+
+.cl {
+  margin         : 0px !important;
+  padding        : 0px !important;
+  justify-content: space-evenly;
+}
+
+.panel4 {
+  display: none;
+}
+
+.smNavbar {
+  display: none;
+}
+
+@media(min-width:0) and (max-width:573.9px) {
+
+  .TelBG {
+    width : 60%;
+    height: 60%;
+  }
+
+  .xlNavbar {
+    display: none;
+  }
+
+  .smNavbar {
+    display: block;
+  }
+
+  .navbarBody {
+    display        : flex;
+    flex-wrap      : nowrap;
+    align-items    : center;
+    justify-content: space-between;
+  }
+
+  .imeges2 {
+    display: block !important;
+    margin : 0 !important;
+  }
+
+  .imeges {
+    width     : 100% !important;
+    text-align: center !important;
+    margin-top: 13rem !important;
+  }
+
+  .images img {
+    margin-bottom: 3rem;
+  }
+
+  #map {
+    margin-bottom: 5rem;
+  }
+
+  .box {
+    margin: 0 !important;
+    width : 100% !important;
+  }
+
+  .internet {
+    width          : 100% !important;
+    text-align     : center !important;
+    margin-top     : -5rem !important;
+    justify-content: space-around !important;
+    display        : flex !important;
+  }
+
+  .chiz {
+    display: none !important;
+  }
+
+  .summ {
+    margin-left: 1rem !important;
+  }
+
+  .thank {
+    margin: 2rem 0 0 0 !important;
+    width : 100% !important;
+  }
+
+  .kerak {
+    display: none !important;
+  }
+
+  .nome {
+    width       : 100% !important;
+    text-align  : center !important;
+    margin-left : 0 !important;
+    margin-right: 0 !important;
+    margin-top  : 1rem !important;
+  }
+
+  .manzil {
+    width       : 100% !important;
+    text-align  : center !important;
+    margin-top  : 3rem !important;
+    margin-left : 0 !important;
+    margin-right: 0 !important;
+    font-size   : 13px !important;
+  }
+
+  .accardinone {
+    width  : 0 !important;
+    display: block !important;
+    margin : 0 !important;
+  }
+
+  .panel {
+    width          : 100% !important;
+    display        : flex !important;
+    margin         : 0px !important;
+    justify-content: center !important;
+    font-size      : 16px !important;
+    color          : #222124 !important;
+  }
+
+  .panel2 {
+    cursor         : pointer;
+    width          : 90%;
+    height         : 46px;
+    margin         : 5% 0 8% 0 !important;
+    background     : #F1F1F1;
+    border-radius  : 27px;
+    display        : flex !important;
+    align-items    : center !important;
+    justify-content: center !important;
+  }
+
+  .panel5 {
+    cursor         : pointer;
+    width          : 90%;
+    height         : 46px;
+    margin         : 0 0 8% 0 !important;
+    background     : #F1F1F1;
+    border-radius  : 27px;
+    display        : flex !important;
+    align-items    : center !important;
+    justify-content: center !important;
+  }
+
+  .accardion {
+    width      : 100% !important;
+    text-align : left !important;
+    margin-top : 1px !important;
+    height     : auto;
+    line-height: 25px;
+  }
+
+  .yopiq2 {
+    display: none;
+  }
+
+  .klent2 {
+    font-size: 20px !important;
+    color    : #222124 !important;
+  }
+
+  .img {
+    text-align : center !important;
+    margin-top : 29px !important;
+    margin-left: 0 !important;
+  }
+
+  .foo {
+    display: block !important;
+    margin : 0 !important;
+    padding: 0 !important;
+  }
+
+  .sarriq {
+    width      : 190px !important;
+    height     : 70px !important;
+    margin-top : 5rem !important;
+    margin-left: 0 !important;
+  }
+
+  .ilova {
+    width      : 301px !important;
+    height     : 176px !important;
+    font-weight: bold;
+    font-size  : 22px !important;
+    line-height: 40px !important;
+    color      : #FFFFFF;
+    margin     : 0 !important;
+    margin-top : 15rem !important;
+  }
+
+  .apple2 {
+    margin-top    : 0rem;
+    width         : 413px !important;
+    display       : flex !important;
+    flex-direction: column;
+    align-items   : center;
+    margin-left   : 0 !important;
+  }
+
+  .ilova3 {
+    display        : flex !important;
+    align-items    : center !important;
+    justify-content: center !important;
+    width          : 100% !important;
+    height         : auto;
+  }
+
+  .apple3 {
+    width          : 80% !important;
+    height         : 40px !important;
+    border         : 2px solid rgba(255, 255, 255, 0.292941);
+    box-sizing     : border-box;
+    backdrop-filter: blur(27.1828px);
+    border-radius  : 40px !important;
+    margin-top     : 1rem !important;
+    display        : flex !important;
+    align-items    : center !important;
+    justify-content: center !important;
+    margin-left    : 2% !important;
+    margin-right   : 2% !important;
+  }
+
+  .apple {
+    width     : 100% !important;
+    text-align: center !important;
+    margin-top: -9rem !important;
+    overflow  : visible !important;
+  }
+
+  .ilova2 {
+    width     : 100% !important;
+    text-align: center !important;
+    display   : flex !important;
+
+    justify-content: center !important;
+  }
+
+  .smartfon {
+    margin-top : -2rem !important;
+    margin-left: -16rem !important;
+    position   : absolute;
+    width      : 262px !important;
+    height     : 250px !important;
+  }
+
+  .fulli {
+    height    : 560px !important;
+    background: #800A7A;
+    margin-top: 6rem !important;
+    display   : block !important;
+  }
+
+  .bolim3 img {
+    margin: 0 !important;
+
+  }
+
+  .bolim3 {
+    width : 100% !important;
+    margin: 0 !important;
+  }
+
+  .button {
+    width        : 100% !important;
+    height       : 46px;
+    background   : #d4d3d3;
+    border-radius: 27px;
+    text-align   : center;
+    margin       : 1rem 0 1rem 0;
+    padding      : 10px !important;
+    box-sizing   : border-box !important;
+  }
+
+  .button2 {
+    display        : flex !important;
+    width          : 100% !important;
+    height         : 46px;
+    background     : #d4d3d3;
+    border-radius  : 27px;
+    text-align     : center;
+    margin         : 1rem 0 1rem 0;
+    padding        : 10px !important;
+    box-sizing     : border-box !important;
+    font-size      : 14px;
+    align-items    : center;
+    justify-content: center;
+  }
+
+  .taom1 {
+    width      : 88px !important;
+    height     : 44px !important;
+    font-size  : 34px !important;
+    line-height: 44px;
+    color      : #222124;
+    text-align : center;
+    margin-top : 1rem !important;
+    margin-left: 0 !important;
+    padding    : 0;
+  }
+
+  .bolim3 {
+    margin-left: 0 !important;
+  }
+
+  .button {
+    display: inline !important;
+  }
+
+  .korish2 {
+    display: none !important;
+  }
+
+  .korish1 {
+    display: none !important;
+  }
+
+  .sakkiz {
+    display: inline !important;
+  }
+
+
+  .bolim1 {
+    width          : 100% !important;
+    display        : flex !important;
+    align-items    : center !important;
+    height         : 163px !important;
+    border         : 1px solid rgba(151, 151, 151, 0.181927);
+    margin-top     : 2rem !important;
+    margin-left    : 0 !important;
+    justify-content: center;
+  }
+
+  .bolim1 img {
+    width     : 100px !important;
+    object-fit: contain !important;
+    height    : auto;
+    margin    : 0 !important;
+  }
+
+  .summa1 {
+    width       : auto;
+    height      : 21px !important;
+    font-weight : 500 !important;
+    font-size   : 10px !important;
+    line-height : 22px !important;
+    margin-right: 0 !important;
+
+    color: #222124;
+
+  }
+
+  .summa {
+    display        : flex;
+    margin-top     : -1rem !important;
+    width          : 100px !important;
+    justify-content: space-around;
+  }
+
+  .summa2 {
+    width          : 25px !important;
+    height         : 25px !important;
+    background     : #F1B301;
+    display        : flex !important;
+    align-items    : center !important;
+    justify-content: center !important;
+    color          : #FFFFFF;
+    object-fit     : contain;
+    border-radius  : 50% !important;
+    margin-top     : 0px;
+  }
+
+  .bolim3 {
+    width          : 100% !important;
+    margin         : 2rem 0 0 0 !important;
+    display        : flex !important;
+    align-items    : center !important;
+    height         : 163px !important;
+    border         : 1px solid rgba(151, 151, 151, 0.181927);
+    justify-content: center;
+  }
+
+  .korinmas {
+    display: none;
+  }
+
+  .xl {
+    margin : 0 !important;
+    padding: 0 !important;
+  }
+
+  .bolim3 img {
+    width     : 100px !important;
+    height    : 127.57px !important;
+    object-fit: contain !important;
+  }
+
+  .bolim2 {
+    margin-left: 0.6rem !important;
+  }
+
+  .gavaya1 {
+    display    : flex !important;
+    margin-left: 0 !important;
+    width      : 100px !important;
+  }
+
+  .gavaya1 img {
+    width : 10% !important;
+    height: 10% !important;
+  }
+
+  .matn {
+    width       : 100px !important;
+    height      : 68px !important;
+    margin-left : 0 !important;
+    margin-right: 0 !important;
+    font-size   : 8px !important;
+    line-height : 12px !important;
+    color       : #222124;
+    margin-top  : 0;
+    opacity     : 0.4 !important;
+  }
+
+  .gavaya {
+    width      : auto;
+    height     : 21px !important;
+    font-weight: 500 !important;
+    font-size  : 11px !important;
+    line-height: 22px !important;
+    color      : #222124;
+  }
+
+  .gavaya img {
+    object-fit: contain;
+    height    : 15px !important;
+  }
+
+  .kop {
+    overflow-y   : auto !important;
+    display      : flex !important;
+    width        : 100%;
+    margin-left  : 1% !important;
+    margin-top   : 12rem !important;
+    margin-bottom: 0 !important;
+    height       : 70px;
+  }
+
+  .barcha {
+    padding-left    : 2rem !important;
+    padding-right   : 2rem !important;
+    background-color: transparent;
+    margin-right    : 0.5rem !important;
+  }
+
+  .block5 {
+    width          : 100%;
+    display        : flex;
+    justify-content: center;
+  }
+
+  .rasm1 {
+    margin-left: 25px !important;
+    margin-top : 21px !important;
+  }
+
+  .chiziq {
+    display: none !important;
+  }
+
+  .bolim3 {
+    margin-left: 0 !important;
+    width      : 100% !important;
+    margin-top : 2rem !important;
+  }
+
+  .ota1 {
+    width          : 100% !important;
+    display        : flex !important;
+    justify-content: center !important;
+    align-items    : center !important;
+  }
+
+  .ota {
+    width      : 95% !important;
+    height     : 220px !important;
+    overflow   : auto !important;
+    margin-left: 1% !important;
+    margin-top : 0 !important;
+  }
+
+  .pic {
+    width          : 100% !important;
+    display        : flex !important;
+    justify-content: center !important;
+  }
+
+  .rasm2 {
+    width      : 100% !important;
+    height     : 279px !important;
+    object-fit : contain;
+    margin-left: 0.1% !important;
+    margin-top : -12.5rem !important;
+  }
+
+  .text {
+    width       : 100% !important;
+    height      : 24px !important;
+    margin-left : 3% !important;
+    margin-right: 3% !important;
+    box-sizing  : border-box !important;
+    font-weight : 900 !important;
+    font-size   : 15px !important;
+    line-height : 30px !important;
+    text-align  : center !important;
+    margin-top  : 0rem !important;
+    color       : #FFFFFF !important;
+  }
+
+  .width {
+    margin-top  : 8rem !important;
+    width       : 100% !important;
+    height      : 57px !important;
+    font-size   : 10px !important;
+    line-height : 19px !important;
+    text-align  : center !important;
+    color       : #FFFFFF !important;
+    margin-left : 7% !important;
+    margin-right: 7% !important;
+    box-sizing  : border-box !important;
+  }
+
+  .block4 {
+    width          : 100% !important;
+    height         : 100% !important;
+    margin-bottom  : 2rem !important;
+    display        : flex !important;
+    align-items    : center !important;
+    justify-content: center !important;
+  }
+
+  .rang {
+    height    : 260px !important;
+    margin-top: 220px !important;
+  }
+
+  .block {
+    position        : absolute;
+    background-color: rgb(88, 88, 88) !important;
+    margin          : -1.7rem 0rem 0rem -13rem !important;
+    width           : 220px !important;
+    flex-wrap       : wrap !important;
+    flex-direction  : inherit;
+  }
+
+  .navbarTextLink {
+    width: 50%;
+  }
+
+  .navbarTextLinkEnd {
+    width: 100%;
+  }
+
+  .menu {
+    border-right: 2px solid;
+  }
+
+  .menu,
+  .bolalar {
+    margin       : 0.5rem 0;
+    color        : #FFFFFF !important;
+    text-align   : center;
+    border-bottom: 2px solid;
+  }
+
+
+  .flial {
+    width        : 100%;
+    height       : 100%;
+    margin       : 0;
+    color        : #FFFFFF !important;
+    text-align   : center;
+    border-bottom: 2px solid;
+  }
+
+  .stik {
+    display: none;
+  }
+
+  .karzina {
+    font-size  : 12px !important;
+    margin-top : 0;
+    margin-left: 0;
+    width      : 100%;
+    text-align : center;
+  }
+
+  .qulf {
+    margin-top: -3rem !important;
+  }
+
+  .tel2 {
+    margin-top : 0;
+    width      : 100%;
+    margin-left: 0;
+    text-align : center;
+  }
+
+  .tel3 {
+    font-size: 14px !important;
+  }
+
+  .tel {
+    margin-left: 1.6rem !important;
+    margin-top : 1rem !important;
+  }
+
+
+
+  nav {
+    margin : 0 !important;
+    padding: 0px !important;
+  }
+
+
+  .massa {
+    text-align: center !important;
+    margin    : 0 !important;
+    width     : 100% !important;
+  }
+}
+
+@media (min-width:0) and (max-width:269.9px) {
+  .apple2 {
+    margin-top: 15rem;
+  }
+
+  .TelBG {
+    width : 90%;
+    height: 90%;
+  }
+}
+
+@media (min-width:270px) and (max-width:323.9px) {
+  .apple2 {
+    margin-top: 13rem;
+  }
+}
+
+@media (min-width:324px) and (max-width:370.9px) {
+  .apple2 {
+    margin-top: 13rem;
+  }
+}
+
+@media (min-width:371px) and (max-width:436.9px) {
+  .apple2 {
+    margin-top: 12rem;
+  }
+}
+
+
+@media (min-width:520px) and (max-width:573.9px) {
+  .apple2 {
+    margin-top: 8rem;
+  }
+}
+
+@media (min-width:437px) and (max-width:519.9px) {
+  .apple2 {
+    margin-top: 10rem;
+  }
+}
+
+@media (min-width:479px) and (max-width:558.9px) {
+  .summa2 {
+    width: 33px !important;
+  }
+}
+
+@media (min-width:300px) and (max-width:478.9px) {
+  .summa2 {
+    width       : 50px !important;
+    margin-right: 0;
+    height      : 26px !important;
+  }
+}
+
+@media(min-width:300px) and (max-width:573.9px) {
+  .bolim1 img {
+    width: 40% !important;
+  }
+
+  .bolim3 img {
+    width: 20% !important;
+  }
+
+  .bolim2 {
+    width: 40%;
+  }
+
+  .kichik {
+    width: 100% !important;
+  }
+
+  .puto img {
+    width: 50% !important;
+  }
+
+  .gavaya {
+    width: 120% !important;
+  }
+
+
+
+  .pts img {
+    width: 40% !important;
+  }
+
+  .kichik img {
+    width: 50% !important;
+  }
+
+  .kichik .gavaya1 {
+    width: 80% !important;
+  }
+
+  .matn {
+    font-size  : 50% !important;
+    width      : 100% !important;
+    text-align : start !important;
+    line-height: 12px !important;
+  }
+
+
+  .gavaya1 img {
+    width: 20% !important;
+  }
+
+  .gavaya {
+    font-size: 12px !important;
+  }
+
+  .summa1 {
+    font-size: 12px !important;
+    width    : 200px !important;
+  }
+
+  .summa {
+    width: 100% !important;
+  }
+}
+
+@media(min-width:574px) and (max-width:991.9px) {
+  .kop {
+    margin-bottom: 0rem;
+  }
+
+  .TelBG {
+    width : 50%;
+    height: 60%;
+  }
+
+  .kerak {
+    display: none !important;
+  }
+
+  .barcha {
+    width: 190% !important;
+  }
+
+  .gavaya {
+    font-size: 28px !important;
+    width: 230px;
+  }
+
+  .taom1 {
+    text-align: center;
+  }
+
+  .imeges2 {
+    margin-top: 13rem !important;
+  }
+
+  .nome {
+    width      : 100% !important;
+    text-align : center !important;
+    margin-left: 0 !important;
+  }
+
+  .manzil {
+    width      : 100% !important;
+    text-align : center !important;
+    margin-left: 0 !important;
+  }
+
+  .sarriq {
+    width      : 436px !important;
+    height     : 190px !important;
+    margin-top : 8rem !important;
+    margin-left: 0 !important;
+  }
+
+  .thank {
+    margin: 4rem 0 0 0 !important;
+    width : 100% !important;
+  }
+
+  .apple2 {
+    margin-top : 2rem !important;
+    width      : 413px !important;
+    display    : block !important;
+    margin-left: 0 !important;
+  }
+
+  .panel2 {
+    display: none;
+  }
+
+  .panel5 {
+    display: none;
+  }
+
+  .accardinone {
+    display        : flex !important;
+    width          : 100% !important;
+    justify-content: space-around !important;
+    margin-top     : 3rem !important;
+    margin-left    : 0 !important;
+  }
+
+  .klent2 {
+    font-size: 20px !important;
+    color    : #222124 !important;
+  }
+
+  .klent3 {
+    margin-top: 1rem !important;
+  }
+
+  .panel {
+    font-size  : 14px !important;
+    line-height: 34px !important;
+    color      : #222124 !important;
+  }
+
+  .img {
+    text-align : center !important;
+    margin-top : 29px !important;
+    margin-left: 0 !important;
+  }
+
+  .foo {
+    display: block !important;
+    margin : 0 !important;
+    padding: 0 !important;
+  }
+
+  .ilova3 {
+    display        : flex !important;
+    align-items    : center !important;
+    justify-content: center !important;
+    width          : 100% !important;
+    height         : 65%;
+  }
+
+  .apple3 {
+    width          : 80% !important;
+    height         : 80px;
+    border         : 2px solid rgba(255, 255, 255, 0.292941);
+    box-sizing     : border-box;
+    backdrop-filter: blur(27.1828px);
+    border-radius  : 46px !important;
+    margin-top     : 1rem !important;
+    display        : flex !important;
+    align-items    : center !important;
+    justify-content: center !important;
+    margin-left    : 10% !important;
+    margin-right   : 10% !important;
+  }
+
+  .ilova {
+    width      : auto !important;
+    height     : auto !important;
+    font-weight: bold;
+    font-size  : 30px !important;
+    line-height: 44px !important;
+    color      : #FFFFFF;
+    margin     : 0 !important;
+    margin-top : 15rem !important;
+  }
+
+  .apple {
+    width     : 100% !important;
+    text-align: center !important;
+    margin-top: -17rem !important;
+    overflow  : visible !important;
+    margin    : -11rem 0 0 0 !important;
+  }
+
+  .ilova2 {
+    width          : 100% !important;
+    text-align     : center !important;
+    display        : flex !important;
+    justify-content: center !important;
+  }
+
+  .smartfon {
+    margin-top : -4rem !important;
+    margin-left: -35rem !important;
+    position   : absolute;
+    width      : 608px !important;
+    height     : 434px !important;
+  }
+
+  .fulli {
+    height    : 683px !important;
+    background: #800A7A;
+    margin-top: 6rem !important;
+    display   : block !important;
+  }
+
+  .rasm1 {
+    margin-left: 16px !important;
+    margin-top : 21px !important;
+  }
+
+  .block5 {
+    margin-top: 18rem !important;
+    overflow  : auto !important;
+    width     : 100% !important;
+  }
+
+  .xl {
+    padding: 0 !important;
+  }
+
+  .qalampir {
+    margin-right: 10% !important;
+  }
+
+  .bolim2 {
+    margin-left: 10% !important;
+    width      : auto !important;
+  }
+
+  .bolim2 img {
+    margin-right: 20% !important;
+  }
+
+  .gavaya1 img {
+    margin-left: -1rem !important;
+  }
+
+  .summa1 {
+    margin-right: 0 !important;
+  }
+
+  .summa {
+    margin-left: -1rem !important;
+  }
+
+  .summa2 {
+    margin-left: -10px !important;
+  }
+
+  .summa1 {
+    font-size: 20px !important;
+  }
+
+  .matn {
+    font-size: 10px !important;
+    width    : 110px !important;
+  }
+
+  .bolim1 {
+    margin-left: 0 !important;
+    width      : 100% !important;
+    box-sizing : border-box !important;
+    margin-top : 2rem !important;
+    border     : none !important;
+    justify-content: center;
+  }
+
+  .bolim3 {
+    margin-left    : 0 !important;
+    margin-right   : 0 !important;
+    width          : 100% !important;
+    box-sizing     : border-box !important;
+    margin-top     : 2rem !important;
+    border         : none !important;
+    justify-content: center;
+  }
+
+  .ota1 {
+    width          : 100%;
+    display        : flex;
+    justify-content: center;
+  }
+
+  .ota {
+    overflow       : auto !important;
+    height         : 220px;
+    width          : 60%;
+    display        : flex;
+    justify-content: center;
+    margin-left    : 1% !important;
+    margin-top     : 1rem !important;
+  }
+
+  .rasm2 {
+    width      : 398px !important;
+    height     : 310px !important;
+    margin-left: 1% !important;
+    margin-top : -27rem !important;
+  }
+
+  .text {
+    width      : 274px !important;
+    height     : 88px !important;
+    margin-left: 0% !important;
+    font-weight: 900 !important;
+    font-size  : 36px !important;
+    line-height: 44px !important;
+    text-align : center !important;
+    margin-top : -6rem !important;
+    color      : #FFFFFF !important;
+  }
+
+  .width {
+    margin-left: 0% !important;
+    text-align : center !important;
+    color      : #FFFFFF !important;
+    margin-top : 6rem !important;
+  }
+
+  .block4 {
+    width          : 100% !important;
+    height         : 100% !important;
+    display        : flex !important;
+    align-items    : center !important;
+    justify-content: center !important;
+  }
+
+  .rang {
+    height    : 524px !important;
+    padding   : 0px !important;
+    margin-top: 233px !important;
+  }
+
+  .menu2 {
+    font-size  : 20px !important;
+    margin-left: 1rem;
+  }
+
+  .block {
+    background-color: rgb(88, 88, 88) !important;
+    margin          : -1.5rem 0rem 0rem -31rem !important;
+    width           : 500px !important;
+  }
+
+  .menu {
+    margin-left: 1.5rem !important;
+    margin-top : 0.7rem !important;
+    color      : #FFFFFF !important;
+  }
+
+  .bolalar {
+    margin-left: 1.5rem !important;
+    margin-top : 0.2rem !important;
+    color      : #FFFFFF !important;
+  }
+
+  .flial {
+    margin-left: 1.5rem !important;
+    margin-top : 0.2rem !important;
+    color      : #FFFFFF !important;
+  }
+
+  .navbar-toggler:focus {
+    transition: 0s all linear !important;
+  }
+
+  .stik {
+    display: none;
+    margin : 0px !important;
+  }
+
+  .karzina {
+    font-size  : 12px !important;
+    margin-top : -3.9rem !important;
+    margin-left: 4rem !important;
+    width      : 130px !important;
+  }
+
+  .qulf {
+    margin-top : -3rem !important;
+    margin-left: 0.5rem !important;
+  }
+
+  .tel2 {
+    margin-top : -1.2rem !important;
+    width      : 206px !important;
+    margin-left: 3.5rem !important;
+  }
+
+  .tel3 {
+    font-size: 14px !important;
+  }
+
+  .tel {
+    margin-left: 1.6rem !important;
+    margin-top : 1rem !important;
+  }
+
+  .bolim1 img {
+    width     : 180px !important;
+    object-fit: contain !important;
+  }
+
+  .bolim3 img {
+    width     : 180px !important;
+    object-fit: contain !important;
+  }
+
+  nav {
+    margin-left: 85% !important;
+    margin-top : -18rem !important;
+    padding    : 0px !important;
+  }
+}
+
+@media (min-width:722px) and (max-width:917.9px) {
+  .TelBG {
+    width : 40%;
+    height: 100%;
+  }
+}
+
+@media (min-width:918px) and (max-width:991.9px) {
+  .TelBG {
+    width : 35%;
+    height: 100%;
+  }
+}
+
+@media(min-width:992px) and (max-width:1195.9px) {
+
+  .massa {
+    margin-left: -5rem !important;
+  }
+
+  .accardinone {
+    margin-left: 5rem !important;
+  }
+
+  .sarriq {
+    margin-left: -3rem !important;
+  }
+
+  .rasm2 {
+    width      : 691px;
+    height     : 524px;
+    margin-left: 1% !important;
+    margin-top : -19rem !important;
+  }
+
+  .thank {
+    margin: 6rem 0 0 0 !important;
+    width : 100% !important;
+  }
+
+  .img {
+    text-align : center !important;
+    margin-top : 5rem !important;
+    margin-left: 3rem !important;
+  }
+
+  .apple2 {
+    display: flex !important;
+  }
+
+  .apple3 {
+    width          : 250px !important;
+    height         : 80px;
+    border         : 2px solid rgba(255, 255, 255, 0.292941);
+    box-sizing     : border-box;
+    backdrop-filter: blur(27.1828px);
+    border-radius  : 46px !important;
+    display        : flex !important;
+    align-items    : center !important;
+    justify-content: center !important;
+    margin-left    : 1rem !important;
+  }
+
+  .ilova3 {
+    width      : 100% !important;
+    position   : absolute;
+    height     : 85% !important;
+    align-items: flex-end !important;
+    display    : flex !important;
+  }
+
+  .apple2 {
+    margin-left: 2rem !important;
+  }
+
+  .ilova {
+    margin-left: 2rem !important;
+    font-size  : 43px;
+  }
+
+  .smartfon {
+    margin-left: -17rem !important;
+    width      : 760px !important;
+  }
+
+  .xl {
+    margin : 0 !important;
+    padding: 0 !important;
+  }
+
+  .bolim1,
+  .bolim3 {
+    margin-left : auto !important;
+    margin-right: auto !important;
+    justify-content: center;
+  }
+
+  .taom1 {
+    text-align: center;
+  }
+
+  .block5 {
+    margin-top: 18rem !important;
+  }
+
+  .ota1 {
+    width          : 100%;
+    display        : flex;
+    justify-content: center;
+  }
+
+  .bola3 {
+    margin-right: 0 !important;
+  }
+
+  .ota {
+    overflow-y     : auto !important;
+    height         : 200px;
+    width          : 60%;
+    display        : flex;
+    justify-content: center;
+
+    margin-left: 1% !important;
+    margin-top : 0.1rem !important;
+  }
+
+  .block4 {
+    width          : 100% !important;
+    height         : 100% !important;
+    display        : flex !important;
+    align-items    : center !important;
+    justify-content: center !important;
+  }
+
+  .text {
+    width      : 274px !important;
+    height     : 88px !important;
+    margin-left: 0% !important;
+    font-weight: 900 !important;
+    font-size  : 36px !important;
+    line-height: 44px !important;
+    text-align : center !important;
+    margin-top : 6rem !important;
+    color      : #FFFFFF !important;
+  }
+
+  .width {
+    margin-left: 0% !important;
+    text-align : center !important;
+    margin-top : 18rem !important;
+    color      : #FFFFFF !important;
+  }
+
+  .menu {
+    margin-left: 10rem !important;
+    font-size  : 20px !important;
+    margin-top : -5rem !important;
+  }
+
+  .flial {
+    font-size  : 20px !important;
+    margin-top : -5rem !important;
+    margin-left: 1rem !important;
+  }
+
+  .bolalar {
+    font-size  : 20px !important;
+    margin-top : -5rem !important;
+    margin-left: 1rem !important;
+  }
+
+  .tel {
+    margin-top : -3rem !important;
+    margin-left: 3rem !important;
+  }
+
+  .telphone {
+    margin-left: 3rem;
+  }
+
+
+  .stik {
+    margin-top: -5.5rem !important;
+    border    : 1px solid #222124 !important;
+  }
+
+  .qulf {
+    margin-top: -6rem !important;
+  }
+
+  .karzina {
+    margin-top: -4.5rem !important;
+    color     : #333335 !important;
+  }
+
+  .rasm1 {
+    width        : 51.49px;
+    height       : 54.95px;
+    margin-left  : 16px !important;
+    margin-top   : 21px !important;
+    margin-bottom: 2rem;
+  }
+
+  .tel4 {
+    font-size: 9.7px;
+    width    : auto;
+  }
+
+  .karzina {
+    font-size: 15px;
+  }
+}
+
+@media (min-width:1196px) and (max-width:1461px) {
+
+  .bolim1,
+  .bolim3,
+  .bolim2 {
+    margin-left: 0;
+    width      : 100%;
+  }
+
+  .cl {
+    justify-content: space-evenly;
+  }
+}
